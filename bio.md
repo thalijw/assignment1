@@ -6,4 +6,4 @@ Hobbies : I love to cook and go to the gym!
 
 Programming Background : I studied Python language with Udacity.com
 
-Favorite programs : WordGuess program
+Favorite programs : WordGuess program and game of life 
