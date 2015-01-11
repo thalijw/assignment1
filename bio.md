@@ -10,4 +10,4 @@ Favorite programs : WordGuess program and game of life
 
 Places to visit : France , India and China 
 
-Favorite food : chinese food
+Favorite food : Mexican food
